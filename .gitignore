@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+
+# TypeScript
+dist/
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS and Editor Specific
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+
+# Package lock files (optional, depends on your workflow)
+package-lock.json
+yarn.lock
