@@ -22,3 +22,6 @@ Thumbs.db
 # Package lock files (optional, depends on your workflow)
 package-lock.json
 yarn.lock
+
+src/categories/
+
